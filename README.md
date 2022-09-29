@@ -3,11 +3,9 @@
 > Trilha Explorer
 ## Stage 02 - Projeto 01
 
-![preview](.github/preview_projeto_1.png)
+![preview](/preview/projeto01.png)
 
 Proposta desenvolvida como primeiro projeto do curso Explorer da Rocketseat.
-
-[🔗 clique para acessar](https://marcelosnows.github.io/Projeto_01/)
 
 # 🛠 Tecnologias
 
