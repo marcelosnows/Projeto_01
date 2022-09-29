@@ -9,7 +9,6 @@ Proposta desenvolvida como primeiro projeto do curso Explorer da Rocketseat.
 
 [🔗 clique para acessar](https://marcelosnows.github.io/Projeto_01/)
 
-
 # 🛠 Tecnologias
 
 * HTML
