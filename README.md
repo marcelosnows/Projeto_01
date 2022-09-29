@@ -1,6 +1,7 @@
 # Rocketseat 🚀
 
-> Trilha Explorer- Stage 02
+> Trilha Explorer
+## Stage 02 - Projeto 01
 
 ![preview](/images/preview_projeto_1.png)
 
