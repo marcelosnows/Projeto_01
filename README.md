@@ -18,7 +18,7 @@ Proposta desenvolvida como primeiro projeto do curso Explorer da Rocketseat.
 ## 🤯 O que foi aprendido:
 
 - Identificar e capturar informações de layout do Figma;
-* HTML - Estruturação e suas principais Tags, quebra de linhas;
+- HTML - Estruturação e suas principais Tags, quebra de linhas;
 - CSS - Sintaxe | Propriedades e seus valores, alinhamento e posicionamento.
 - VSCode - Estruturação do projeto, seus arquivos e pastas;
 - Carregar o projeto do VScode para o Codepen;
