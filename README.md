@@ -1,10 +1,10 @@
-b# Rocketseat 
+# Rocketseat 🚀
 
 > Trilha Explorer- Stage 02
 
 ![preview](/images/preview_projeto_1.png)
 
-Proposta desenvolvida como primeiro projeto do curso Explorer da Rocketseat. 🚀
+Proposta desenvolvida como primeiro projeto do curso Explorer da Rocketseat.
 
 [🔗 clique para acessar](https://github.com/marcelosnows/Projeto_1_Stage-02)
 
